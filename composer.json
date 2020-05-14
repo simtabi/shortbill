@@ -1,0 +1,25 @@
+{
+    "name": "simtabi/shortbill",
+    "description": "A collection of paybill and shortcode numbers for various payments merchants in Kenya",
+    "keywords": [
+        "php", "paybills",
+        "shortcode", "mpesa"
+    ],
+    "type": "package",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Imani Manyara",
+            "email": "imani@simtabi.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simtabi\\ShortBill\\": "project/src/"
+        }
+    }
+}
