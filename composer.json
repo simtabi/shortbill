@@ -1,6 +1,6 @@
 {
     "name": "simtabi/shortbill",
-    "description": "A collection of paybill and shortcode numbers for various payments merchants in Kenya",
+    "description": "A collection of mobile payment paybill, shortcode, and till numbers for various nmerchants.",
     "keywords": [
         "php", "paybills",
         "shortcode", "mpesa"

@@ -1,10 +1,8 @@
 
 ![alt text](https://repository-images.githubusercontent.com/264043178/8d2adf00-9618-11ea-8655-2877af394161?raw=true)
 
-
-
 # ShortBill 
-### — A collection of paybill, shortcode and till numbers for use in your next ecommerce projects
+#### — A collection of paybill, shortcode and till numbers for use in your next ecommerce projects
 
 This package allows you to easily and quickly access use merchant paybill numbers, shortcodes and USSD codes.
 
